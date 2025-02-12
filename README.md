@@ -2,6 +2,20 @@
 
 eGatividhi is an AI-powered construction progress monitoring system designed to help urban local bodies (ULBs) and state agencies assess construction status remotely. The system uses computer vision and machine learning to analyze construction site images and track project progress.
 
+### Demo Video
+
+[eGatividhi_Demo.webm]()
+
+
+### Image Results Example
+
+Result Image 1 
+![Screenshot 2025-01-16 012918]()
+
+Result Image 2
+![Screenshot 2025-01-16 013142]()
+
+
 ## Features
 
 ### Image Analysis

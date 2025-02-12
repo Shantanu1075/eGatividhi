@@ -4,6 +4,9 @@ eGatividhi is an AI-powered construction progress monitoring system designed to 
 
 ### Demo Video
 
+https://github.com/user-attachments/assets/6a4f9c58-1301-4f3b-bcd4-eed83e0e0663
+
+
 
 ### Image Results Example
 
